@@ -1,10 +1,16 @@
 .custom-padding {
-  padding-left: 15px;
-  padding-right: 15px;
   max-width: 700px;
   margin: 0 auto;
 }
 
-.small-font {
+.custom-avatar {
+  max-width: 112px;
+}
+
+.custom-font {
   font-size: 14px;
+}
+
+.custom-date {
+  font-size: 16px;
 }
