@@ -1,0 +1,10 @@
+.custom-padding {
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.small-font {
+  font-size: 14px;
+}
