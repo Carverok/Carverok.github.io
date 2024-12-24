@@ -1,16 +1,16 @@
 .custom-padding {
-  max-width: 700px;
-  margin: 0 auto;
+  max-width: 700px !important;
+  margin: 0 auto !important;
 }
 
 .custom-avatar {
-  max-width: 112px;
+  max-width: 112px !important;
 }
 
 .custom-font {
-  font-size: 13.5px;
+  font-size: 13.5px !important;
 }
 
 .custom-date {
-  font-size: 14px;
+  font-size: 14px !important;
 }
